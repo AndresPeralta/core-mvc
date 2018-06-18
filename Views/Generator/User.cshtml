@@ -1,0 +1,10 @@
+@using core_mvc.Models;
+@model core_mvc.Models.User;
+
+<tr class="align-middle">
+      <td>@Html.DisplayFor(model => model.Email)</td>
+      <td>@Html.DisplayFor(model => model.FirstName)</td>
+      <td>@Html.DisplayFor(model => model.LastName)</td>
+      <td>@Html.DisplayFor(model => model.Gender)</td>
+      <td><img src="@Model.Avatar"></td>
+</tr>

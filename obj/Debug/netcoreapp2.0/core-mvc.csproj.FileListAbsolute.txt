@@ -1,0 +1,11 @@
+C:\Users\Andres\code\core-mvc\bin\Debug\netcoreapp2.0\core-mvc.deps.json
+C:\Users\Andres\code\core-mvc\bin\Debug\netcoreapp2.0\core-mvc.runtimeconfig.json
+C:\Users\Andres\code\core-mvc\bin\Debug\netcoreapp2.0\core-mvc.runtimeconfig.dev.json
+C:\Users\Andres\code\core-mvc\bin\Debug\netcoreapp2.0\core-mvc.dll
+C:\Users\Andres\code\core-mvc\bin\Debug\netcoreapp2.0\core-mvc.pdb
+C:\Users\Andres\code\core-mvc\obj\Debug\netcoreapp2.0\core-mvc.csprojAssemblyReference.cache
+C:\Users\Andres\code\core-mvc\obj\Debug\netcoreapp2.0\core-mvc.csproj.CoreCompileInputs.cache
+C:\Users\Andres\code\core-mvc\obj\Debug\netcoreapp2.0\core-mvc.AssemblyInfoInputs.cache
+C:\Users\Andres\code\core-mvc\obj\Debug\netcoreapp2.0\core-mvc.AssemblyInfo.cs
+C:\Users\Andres\code\core-mvc\obj\Debug\netcoreapp2.0\core-mvc.dll
+C:\Users\Andres\code\core-mvc\obj\Debug\netcoreapp2.0\core-mvc.pdb

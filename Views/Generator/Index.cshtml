@@ -1,0 +1,29 @@
+@using core_mvc.Models;
+@model core_mvc.Models.Generator;
+@{
+    ViewData["Title"] = "User list";
+      Layout = "_Layout";
+}
+<div class="jumbotron">
+    <div class="h2">
+        @ViewData["Title"]
+        <p>This json data comes from @Model.Url, @Model.Name gives us random data to test our application.</p>
+    </div>
+</div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Email</th>
+                <th>First name</th>
+                <th>Last name</th>
+                <th>Gender</th>
+                <th>Avatar</th>
+            </tr>
+        </thead>
+    <tbody>
+    @foreach(var User in Model.Users){
+        @Html.Partial("User", User)
+        }
+    </tbody>  
+
+    </table>
